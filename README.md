@@ -2,8 +2,6 @@
 
 **"Shazam, but using image CNNs on audio spectrograms"** – matches audio clips using computer vision!
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Demo-brightgreen)](https://share.streamlit.io/YOUR_USERNAME/image-shazam/main/shazam_app.py)
-
 ## 🎯 Demo
 Upload any audio → get top-5 matches in <1s!
 
